@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">simpleForme</string>
+    <string name="simple_form">Simple Form</string>
+    <string name="lastname">lastName</string>
+    <string name="firstname">firstName</string>
+    <string name="email">email</string>
+    <string name="gmail">"@gmail.com"</string>
+    <string name="password">password</string>
+    <string name="phone">phone</string>
+    <string name="prefix">+212-</string>
+    <string name="submit">submit</string>
+    <string name="reset">reset</string>
+    <string name="create_new_acount">create new acount</string>
+    <string name="password_forget">password forget?</string>
+    <string name="names">name</string>
+</resources>
